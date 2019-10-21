@@ -1,6 +1,11 @@
 History
 =======
 
+## Version 0.0.28 (2019-10-21)
+
+* Add fix for timeout - @pmk
+
+
 ## Version 0.0.27 (2019-04-18)
 
 * Fix less than symbol - @noblezilla
